@@ -1,0 +1,2 @@
+v0.1 [2015/08/22] (by Miguel C. López)
+	+ Original version for GC_6052S and SL_2042_79TB displays.

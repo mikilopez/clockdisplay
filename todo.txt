@@ -1,0 +1,9 @@
++ Add this displays (if suitable):
+	+ http://www.instructables.com/id/Arduino-Clock-using-Standard-Clock-Display
+	+ http://www.youtube.com/watch?v=THijxd-D1Ds
++ Include other characters different from 0..9, A..F
++ Compact and improve pin data in source code.
++ Maybe deem the other pins...
++ More clear examples
++ Better names for routines and variables
++ Include real display pictures in the models file

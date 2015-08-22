@@ -1,0 +1,19 @@
+################################
+# Syntax Coloring Map For Test #
+################################
+
+
+# Datatypes (KEYWORD1)
+
+
+# Methods and Functions (KEYWORD2)
+switch_state  KEYWORD2
+
+
+# Instances (KEYWORD2)
+clockdisplay        KEYWORD2
+
+
+# Constants (LITERAL1)
+GC_6052S            LITERAL1
+SL_2042_79TB        LITERAL1
